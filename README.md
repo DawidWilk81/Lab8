@@ -3,14 +3,14 @@ Zdjecie wyjsciowe:
 ![Wiewiorka](wiewiorka.jpg)
 Zdjęcia po nałożeniu filtrów:
 
-Laplace'a
+<h2>Laplace'a</h2>
 ![Wiewiorka](wiewiorkaLaplace.jpg)<br>
 
-Prewitt'a
-![Wiewiorka](wiewiorkaPrewitt.jpg)<br>
+<h2>Prewitt'a</h2>
+![Wiewiorka](WiewiorkaPrewitt.jpg)<br>
 
-Roberts'a
+<h2>Roberts'a</h2>
 ![Wiewiorka](wiewiorkaRoberts.jpg)<br>
 
-Sobel'a
+<h2>Sobel'a</h2>
 ![Wiewiorka](wiewiorkaSobela.jpg)<br>
