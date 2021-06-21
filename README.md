@@ -7,10 +7,10 @@ Zdjęcia po nałożeniu filtrów:
 ![Wiewiorka](wiewiorkaLaplace.jpg)<br>
 
 <h2>Prewitt'a</h2>
-![Wiewiorka](WiewiorkaPrewitt.jpg)<br>
+![Wiewiorka](wiewiorkaPrewitt.jpg)<br>
 
 <h2>Roberts'a</h2>
 ![Wiewiorka](wiewiorkaRoberts.jpg)<br>
 
 <h2>Sobel'a</h2>
-![Wiewiorka](WiewiorkaSobel.jpg)<br>
+![Wiewiorka](wiewiorkaSobel.jpg)<br>
