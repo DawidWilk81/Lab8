@@ -13,4 +13,4 @@ Zdjęcia po nałożeniu filtrów:
 ![Wiewiorka](wiewiorkaRoberts.jpg)<br>
 
 <h2>Sobel'a</h2>
-![Wiewiorka](wiewiorkaSobela.jpg)<br>
+![Wiewiorka](WiewiorkaSobel.jpg)<br>
